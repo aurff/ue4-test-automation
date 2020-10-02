@@ -2,6 +2,12 @@
 
 [![license](https://img.shields.io/github/license/DaedalicEntertainment/ue4-test-automation.svg?maxAge=2592000)](https://github.com/DaedalicEntertainment/ue4-test-automation/blob/develop/LICENSE)
 
+_Note_: This fork of the [_Daedalic Test Automation Plugin_](https://github.com/DaedalicEntertainment/ue4-test-automation/commits/develop) is created to support the Unreal Engine Version 4.25 and to further improve this plugin, especially for Virtual Reality and/or multiplayer projects. On this fork, the Unreal Engine Version 4.23 is not supported.
+
+For all changes on this fork, that are compatible with the supported Version of the _Daedalic Test Automation Plugin_, there will be a pull request as a contribution to the creators of this plugin, the Unreal Engine Community and the Open Source Community. Further, all releases on this repository will be released under the [MIT License](https://github.com/DaedalicEntertainment/ue4-test-automation/blob/develop/LICENSE). If you want to contribute to this version of the plugin, feel free to fork and create pull requests under the same conditions as the original plugin.
+
+---
+
 The _Daedalic Test Automation Plugin_ facilitates creating and running integration tests with the [Gauntlet Automation Framework](https://docs.unrealengine.com/en-US/Programming/Automation/Gauntlet/index.html) of [Unreal Engine 4](https://www.unrealengine.com).
 
 Automated testing, when applied instead of or in addition to manual testing, provides multiple benefits:
